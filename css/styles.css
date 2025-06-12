@@ -73,6 +73,7 @@ button:hover {
 
 .hero {
     background-color: #2e2f42;
+    height: 600px;
     
 }
 
@@ -93,6 +94,8 @@ button:hover {
     letter-spacing: 0.02em;
     color: #fff;
     background-color: #4D5AE5;
+    width: 169px;
+    height: 56px;
 
 }
 .features {
@@ -151,6 +154,7 @@ button:hover {
 
 .footer {
     background-color: #2e2f42;
+    height: 312px;
 }
 
 .footer-text {
